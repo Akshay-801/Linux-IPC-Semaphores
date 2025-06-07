@@ -120,8 +120,13 @@ if(NUM_LOOPS>=10)    {
 
 ## OUTPUT
 $ ./sem.o 
+
 ![alt text](os5.png)
+
 $ ipcs
+
 ![alt text](os5.1.png)
+
+
 # RESULT:
 The program is executed successfully.
